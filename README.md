@@ -17,8 +17,10 @@ Algoritma menentukan bilangan terbesar diantara 3 buah bilangan.
 
 8.Jika bil c > a maka kerjakan langkah 11.
 
-9.Cetak gBilangan Terbesar Bilangan Pertamah.
+9.Cetak " Bilangan Terbesar Bilangan Pertama ".
 
-10.Cetak gBilangan Terbesar Bilangan Keduah.
-11.Cetak gBilangan Terbesar Bilangan Ketigah.
+10.Cetak " Bilangan Terbesar Bilangan Kedua ".
+
+11.Cetak " Bilangan Terbesar Bilangan Ketiga ".
+
 12.Selesai
