@@ -31,8 +31,8 @@ Diketahui 3 buah bilangan bila, bilb, bil c akan dicari nilai terbesar.
 
 Berikut adalah flowchart pemograman  3 buah bilangan dicari nilai 
 terbesar'
+![flowchart](https://user-images.githubusercontent.com/45659243/52647468-59de3980-2f17-11e9-8678-b7c76dca3532.png)
 
-![flowchart](https://user-images.githubusercontent.com/45659243/52647468-59de39$
 
 Berikut adalah inisiasi dan input program 3 buah bilangan dicari nilai 
 terbesar
